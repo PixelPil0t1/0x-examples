@@ -1,6 +1,6 @@
 # Swap v1 headless example (viem)
 
-A headless example of how to use 0x Swap [/price](https://0x.org/docs/0x-swap-api/api-references/get-swap-v1-price) and [/quote](https://0x.org/docs/0x-swap-api/api-references/get-swap-v1-quote) using [viem](https://viem.sh/)
+A headless example of how to use 0x Swap [/price](https://0x.org/docs/api#tag/Swap/operation/swap::permit2::getPrice) and [/quote](https://0x.org/docs/0x-swap-api/api-references/get-swap-v1-quote) using [viem](https://viem.sh/)
 
 Demonstrates the following on Base mainnet:
 
